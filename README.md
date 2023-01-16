@@ -1,4 +1,11 @@
-# API-Stackoverflow
+# **API with Python**
+
+**APi** stands on Application programming interface
+
+**RSET** stands on Representational State Transfer
+
+**json** stands on JavaScript Object Notation
+
 
 # **API Stackoverflow**
 - Extract information about Badges
